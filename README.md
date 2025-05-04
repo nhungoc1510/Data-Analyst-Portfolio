@@ -18,7 +18,7 @@ This space is where I share my progress, showcase my projects, and reflect on my
      - [Issue and solutions related to room cancellations](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md#Issue-and-solutions-related-to-room-cancellations)
      - [BITCOIN Price Analysis and Predictive Model Building](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md#BITCOIN-Price-Analysis-and-Predictive-Model-Building)
 - [Certificates](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md#contact)
+- [Contact](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md#contacts)
      
 ## Portfolio Projects
 >This section highlights my data analytics projects along with a brief overview of the tools and technologies used in each case.
