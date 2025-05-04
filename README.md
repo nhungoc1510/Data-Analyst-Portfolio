@@ -12,7 +12,7 @@ This is my CV in [pdf](https://github.com/nhungoc1510/nhungoc/edit/main/README.m
 This space is where I share my progress, showcase my projects, and reflect on my journey into the world of data.
 
 ## Table of Contents
-- [The introduction](https://github.com/nhungoc1510/nhungoc/edit/main/README.md#the-introduction)
+- [The introduction](https://github.com/nhungoc1510/nhungoc/blob/main/README.md#the-introduction)
 - [Portfolio Projects](https://github.com/nhungoc1510/nhungoc/edit/main/README.md#portfolio-projects)
      - [Project 1: Analysis and evaluation of Airbnb operations in New York](https://github.com/nhungoc1510/nhungoc/edit/main/README.md)
      - [Project 2](https://github.com/nhungoc1510/nhungoc/edit/main/README.md)
