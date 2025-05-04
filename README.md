@@ -13,12 +13,12 @@ This space is where I share my progress, showcase my projects, and reflect on my
 
 ## Table of Contents
 - [The introduction](https://github.com/nhungoc1510/nhungoc/blob/main/README.md#the-introduction)
-- [Portfolio Projects](https://github.com/nhungoc1510/nhungoc/edit/main/README.md#portfolio-projects)
-     - [Project 1: Analysis and evaluation of Airbnb operations in New York](https://github.com/nhungoc1510/nhungoc/edit/main/README.md)
-     - [Project 2](https://github.com/nhungoc1510/nhungoc/edit/main/README.md)
-     - [Project 3](https://github.com/nhungoc1510/nhungoc/edit/main/README.md)
-- [Certificates](https://github.com/nhungoc1510/nhungoc/edit/main/README.md)
-- [Contact](https://github.com/nhungoc1510/nhungoc/edit/main/README.md)
+- [Portfolio Projects](https://github.com/nhungoc1510/nhungoc/blob/main/README.md#portfolio-projects)
+     - [Project 1: Analysis and evaluation of Airbnb operations in New York](https://github.com/nhungoc1510/nhungoc/blob/main/README.md)
+     - [Project 2](https://github.com/nhungoc1510/nhungoc/blob/main/README.md)
+     - [Project 3](https://github.com/nhungoc1510/nhungoc/blob/main/README.md)
+- [Certificates](https://github.com/nhungoc1510/nhungoc/blob/main/README.md)
+- [Contact](https://github.com/nhungoc1510/nhungoc/blob/main/README.md)
        
 ## Portfolio Projects
 >This section highlights my data analytics projects along with a brief overview of the tools and technologies used in each case.
