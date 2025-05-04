@@ -15,10 +15,10 @@ This space is where I share my progress, showcase my projects, and reflect on my
 - [The introduction](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md#the-introduction)
 - [Portfolio Projects](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
      - [Analysis and evaluation of Airbnb operations in New York](https://github.com/nhungoc1510/nhungoc/blob/main/README.md#Analysis-and-evaluation-of-Airbnb-operations-in-New-York)
-     - [Project 2](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md)
-     - [Project 3](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md)
-- [Certificates](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md)
-- [Contact](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md)
+     - [Issue and solutions related to room cancellations](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md#Issue-and-solutions-related-to-room-cancellations)
+     - [BITCOIN Price Analysis and Predictive Model Building](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md#BITCOIN-Price-Analysis-and-Predictive-Model-Building)
+- [Certificates](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/nhungoc1510/Data-Analyst-Portfolio/blob/main/README.md#contact)
      
 ## Portfolio Projects
 >This section highlights my data analytics projects along with a brief overview of the tools and technologies used in each case.
@@ -32,13 +32,41 @@ This space is where I share my progress, showcase my projects, and reflect on my
 - **Skills**: data cleaning, EDA, geospatial analysis, visualization.
 - **Technology**: Python, Pandas, Seaborn, Matplotlib, PowerBI.
 - **Results**: Found Manhattan and Brooklyn had highest demand and lowest vacancy. Entire home/apt listings were most expensive; private rooms were most booked. Suggested investment focus on high-demand zones.
+- [File presentation](https://github.com/nhungoc1510/Projects/blob/main/Airbnb-Project.pdf)
+
+### Issue and solutions related to room cancellations
+*This is a project I did personally where I figured out the issue and brought solutions related to room cancellations.*
+
+- **Code**: [Churn-Project.ipynb](https://github.com/nhungoc1510/Projects/blob/main/Churn-Project.ipynb)
+- **Goal**: Understand the reasons for customer cancellations and predict future room cancellation trends.
+- **Description**: Analyzed hotel_booking dataset with 119,390 records. Divided 36 columns into 3 main groups for analysis purposes: Customer, booking procedure and service segment. Cleaning data by removing null, duplicates, and hiding unnecessary columns. Used charts to visualize and find solutions.
+- **Skills**: data cleaning, EDA, geospatial analysis, visualization.
+- **Technology**: Python, Pandas, Seaborn, Matplotlib, Numpy, PowerBI.
+- **Results**: Hotels can effectively predict trends and understand cancellation reasons using booking data. To enhance online customer acquisition, they should also gather more guest feedback and online reviews, and actively engage with guests to encourage positive comments.
+- [File summarise](https://github.com/nhungoc1510/Projects/blob/main/Churn-Project%20(2).pdf)
+- [File presentation](https://github.com/nhungoc1510/Projects/blob/main/Airbnb-Project.pdf)
+
+### BITCOIN Price Analysis and Predictive Model Building
+*This project was completed collaboratively with a teammate, where we delved into Bitcoin's mechanics and developed a model to predict its price, highlighting its significance in financial analysis.*
+
+- **Code**: [Churn-Project.ipynb](https://github.com/nhungoc1510/Projects/blob/main/Churn-Project.ipynb)
+- **Goal**: Understanding Bitcoin and importance of Price Prediction.
+- **Description**: updating
+- **Skills**: updating
+- **Technology**: updating
+- **Results**: updating
+- [File summarise](https://github.com/nhungoc1510/Projects/blob/main/Churn-Project%20(2).pdf)
+- [File presentation](https://github.com/nhungoc1510/Projects/blob/main/Airbnb-Project.pdf)
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+*These certifications have helped me build a strong foundation in data analytics tools and techniques.*
+
+- Data Analyst by MindX Technology School (2024 to 2025)
+- SQL by HackerRank ([Basic](https://www.hackerrank.com/certificates/fa6cbd047a61), [Intermediate](https://www.hackerrank.com/certificates/2e980f275342)) (Jan 2024)
+- Basic SQL queries and applications for beginners by GITIHO ([Basic](https://gitiho.com/certificate/6KyMJmSNaTx8IrREn2_gZX5PAkfd)) (Dec 2023)
+- Management Information System by Alison ([Link](https://alison.com/certification/check/2y10Dc0aSOYhBN2zUE1kTVF25C68ih5ylXh0wDpSF67yN7jWBUa0hLi)) (Dec 2023)
+- Intensive Chinese listening and speaking course (2020)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@nhungoc](https://www.linkedin.com/in/nhu-ngoc-nhan-601170184/)
+- Email: ngocnhan97.15@gmail.com
