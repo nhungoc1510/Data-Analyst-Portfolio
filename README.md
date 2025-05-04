@@ -22,6 +22,7 @@ This space is where I share my progress, showcase my projects, and reflect on my
        
 ## Portfolio Projects
 >This section highlights my data analytics projects along with a brief overview of the tools and technologies used in each case.
+
 ### Project 1: Analysis and evaluation of Airbnb operations in New York (Study Project)
 *This is a project I did with my team where I analyzed and evaluated Airbnb operations in New York.*
 
