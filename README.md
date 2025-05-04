@@ -65,7 +65,7 @@ This space is where I share my progress, showcase my projects, and reflect on my
 - SQL by HackerRank ([Basic](https://www.hackerrank.com/certificates/fa6cbd047a61), [Intermediate](https://www.hackerrank.com/certificates/2e980f275342)) (Jan 2024)
 - Basic SQL queries and applications for beginners by GITIHO ([Basic](https://gitiho.com/certificate/6KyMJmSNaTx8IrREn2_gZX5PAkfd)) (Dec 2023)
 - Management Information System by Alison ([Link](https://alison.com/certification/check/2y10Dc0aSOYhBN2zUE1kTVF25C68ih5ylXh0wDpSF67yN7jWBUa0hLi)) (Dec 2023)
-- Intensive Chinese listening and speaking course (2020)
+- Intensive Chinese listening and speaking course by KENTA INTERNATIONAL CENTER (2020)
 
 ## Contacts
 - LinkedIn: [@nhungoc](https://www.linkedin.com/in/nhu-ngoc-nhan-601170184/)
