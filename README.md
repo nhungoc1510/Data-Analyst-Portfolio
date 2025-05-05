@@ -29,7 +29,6 @@ This space is where I share my progress, showcase my projects, and reflect on my
 - **Code**: [Airbnb-Project.ipynb](https://github.com/nhungoc1510/Projects/blob/main/Airbnb-Project.ipynb)
 - **Goal**: To evaluate Airbnb listing performance across NYC neighborhoods.
 - **Description**: Analyzed AB_NYC_2019 dataset with 48,896 records. Cleaned data, explored listing distribution, room types, prices, availability, and reviews. Used maps and charts to visualize trends and identify high-demand areas.
-- **Skills**: data cleaning, EDA, geospatial analysis, visualization.
 - **Technology**: Python, Pandas, Seaborn, Matplotlib, PowerBI.
 - **Results**: Found Manhattan and Brooklyn had highest demand and lowest vacancy. Entire home/apt listings were most expensive; private rooms were most booked. Suggested investment focus on high-demand zones.
 - [File presentation](https://github.com/nhungoc1510/Projects/blob/main/Airbnb-Project.pdf)
@@ -40,23 +39,21 @@ This space is where I share my progress, showcase my projects, and reflect on my
 - **Code**: [Churn-Project.ipynb](https://github.com/nhungoc1510/Projects/blob/main/Churn-Project.ipynb)
 - **Goal**: Understand the reasons for customer cancellations and predict future room cancellation trends.
 - **Description**: Analyzed hotel_booking dataset with 119,390 records. Divided 36 columns into 3 main groups for analysis purposes: Customer, booking procedure and service segment. Cleaning data by removing null, duplicates, and hiding unnecessary columns. Used charts to visualize and find solutions.
-- **Skills**: data cleaning, EDA, geospatial analysis, visualization.
 - **Technology**: Python, Pandas, Seaborn, Matplotlib, Numpy, PowerBI.
 - **Results**: Hotels can effectively predict trends and understand cancellation reasons using booking data. To enhance online customer acquisition, they should also gather more guest feedback and online reviews, and actively engage with guests to encourage positive comments.
 - [File summarise](https://github.com/nhungoc1510/Projects/blob/main/Churn-Project%20(2).pdf)
-- [File presentation](https://github.com/nhungoc1510/Projects/blob/main/Airbnb-Project.pdf)
+- [File presentation](https://github.com/nhungoc1510/Projects/blob/main/Churn-Project.pdf)
 
 ### BITCOIN Price Analysis and Predictive Model Building
 *This project was completed collaboratively with a teammate, where we delved into Bitcoin's mechanics and developed a model to predict its price, highlighting its significance in financial analysis.*
 
-- **Code**: [Churn-Project.ipynb](https://github.com/nhungoc1510/Projects/blob/main/Churn-Project.ipynb)
-- **Goal**: Understanding Bitcoin and importance of Price Prediction.
-- **Description**: updating
-- **Skills**: updating
-- **Technology**: updating
-- **Results**: updating
-- [File summarise](https://github.com/nhungoc1510/Projects/blob/main/Churn-Project%20(2).pdf)
-- [File presentation](https://github.com/nhungoc1510/Projects/blob/main/Airbnb-Project.pdf)
+- **Code**: [Bitcoin-EDA.ipynb](https://github.com/nhungoc1510/Projects/blob/main/Bitcoin-EDA.ipynb) and [Bitcoin-model.ipynb](https://github.com/nhungoc1510/Projects/blob/main/Bitcoin-model.ipynb)
+- **Goal**: Understanding Bitcoin and the importance of Price Prediction.
+- **Description**: Learn what Bitcoin is, why it has become an investment option during this period, the risks and opportunities it presents to investors, the reasons behind failures in Bitcoin investment due to a lack of knowledge, and how to avoid those risks. We selected a dataset containing Bitcoin price fluctuations from 2018 to 2024, consisting of 12 columns and 2,441 rows, using the "open time" (opening price) column as the basis for analysis. We used charts to illustrate the upward and downward trends of Bitcoin prices and to clearly observe its fluctuations over time. Then, we incorporated an additional dataset on gold price fluctuations during the same period to compare its trends with those of Bitcoin. Finally, based on historical data, we attempted to build a model to forecast short-term future prices, intended as a reference for investors to consider.
+- **Technology**: ARIMA, Time series, Linear Regression, Random Forest Regressor, Logistic Regression
+- **Results**: If you're aiming for high profits and are willing to accept high risks, then investing in Bitcoin might be suitable for a long-term investment project. If you prefer a safer and more stable investment, consider investing in gold. Bitcoin price predictions are for reference only; in reality, the factors influencing Bitcoin's value are highly diverse, and its extreme volatility makes investing in this asset class particularly risky. Be a smart investor—do thorough research before putting money into any investment channel, especially the cryptocurrency market.
+- [File summarise](https://github.com/nhungoc1510/Projects/blob/main/Bitcoin-summarise.docx)
+- [File presentation](https://github.com/nhungoc1510/Projects/blob/main/Bitcoin-Project.pdf)
 
 ## Certificates
 *These certifications have helped me build a strong foundation in data analytics tools and techniques.*
